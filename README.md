@@ -1,5 +1,5 @@
 # TSMC: The Observable Engine and the Unidentified Moat
-
+*[Click Here to Pre-Read the Full Report](https://drive.google.com/file/d/1jManmbX1jq1s_IeWZCTKlCdtiexY2eL5/view?usp=sharing)*
 
 
 ## **5 Key Takeaways**
